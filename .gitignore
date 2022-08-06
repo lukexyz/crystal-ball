@@ -130,7 +130,8 @@ dmypy.json
 
 
 nbs/paddy-disease-classification/
-nbs/paddy-disease-classification.zip
-
+nbs/*.zip
+nbs/ref/titanic/
+nbs/ref/*.zip
 
 
